@@ -1,0 +1,7 @@
+Bilal,Phone,4
+Haitam,Car,1
+Ahmed,Pc,2
+Ali,Pen,10
+Kamal,Truck,5
+Youssef,Table,15
+Mohammed,Truck,3
